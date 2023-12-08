@@ -13,12 +13,12 @@ A simple Telegram chatbot that fetches cryptocurrency prices using the CoinGecko
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/ramykatour/Telegram-Crypto-Price-Bot.git
-   ```
-  ```bash
- cd Telegram-Crypto-Price-Bot
-  ```
+```bash
+git clone https://github.com/ramykatour/Telegram-Crypto-Price-Bot.git
+```
+```bash
+cd Telegram-Crypto-Price-Bot
+```
 ```bash
 npm install
 ```
