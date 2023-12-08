@@ -8,6 +8,7 @@ A simple Telegram chatbot that fetches cryptocurrency prices using the CoinGecko
 
 - Node.js installed (version 14 or higher)
 - npm (Node Package Manager) installed
+- Demo  https://t.me/coinmarketclickbot
 
 ### Installation
 
